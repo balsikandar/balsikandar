@@ -11,6 +11,8 @@
 
 <img align="left" alt="Balsikandar's github stats" src="https://github-readme-stats.vercel.app/api?username=balsikandar&show-icons=true&hide_border=true" />
 
+<img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsikandar" />
+
 <!--
 **balsikandar/balsikandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
