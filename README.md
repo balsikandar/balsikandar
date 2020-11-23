@@ -7,6 +7,10 @@
 - 💬 Talk to me about Android, kotlin and books.
 - 📫 Connect me: balsikandar.nsit@gmail.com
 
+---
+
+<img align="left" alt="Balsikandar's github stats" src="https://github-readme-stats.vercel.app/api?username=balsikandar&show-icons=true&hide_border=true" />
+
 <!--
 **balsikandar/balsikandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
