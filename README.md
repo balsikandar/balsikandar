@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Bal sikandar - aka[Bali].
 
 
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning everything.
 - 👯 I'm looking to Collaborate on Android/React Native.
 - 🤔 I’m looking for help with next destination to visit.
