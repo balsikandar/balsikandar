@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Bal sikandar - aka[Bali].
-
+#### Hi there 👋, I'm Bal sikandar aka Bali.
 
 - 🌱 I’m currently learning everything.
 - 👯 I'm looking to Collaborate on Android/React Native.
