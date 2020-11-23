@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Bal sikandar - aka[bali].
+
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning everything.
+- 👯 I'm looking to Collaborate on Android/React Native projects.
+- 🤔 I’m looking for help with next destination to visit.
+- 💬 Talk to me about Android, kotlin and books.
+- 📫 How to reach me: balsikandar.nsit@gmail.com
 
 <!--
 **balsikandar/balsikandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
