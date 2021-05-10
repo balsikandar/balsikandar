@@ -1,10 +1,12 @@
 #### Hi there 👋, I'm Bal sikandar aka Bali.
 
-- 🌱 I’m currently learning everything.
-- 👯 I'm looking to Collaborate on Android/React Native.
+- 🌱 I’m currently learning React.
+- 👯 I'm looking to collaborate on Android/React Native.
 - 🤔 I’m looking for help with next destination to visit.
-- 💬 Talk to me about Android, kotlin and books.
+- 💬 Talk to me about Android, kotlin, React, Web, and books.
 - 📫 Connect me: balsikandar.nsit@gmail.com
+
+![](https://komarev.com/ghpvc/?username=balsikandar)
 
 ---
 
