@@ -19,6 +19,11 @@
 
 ---
 
+## Blog posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@balsikandar/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@balsikandar/1" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@balsikandar/2" alt="Recent Article 0"> 
+
 <img align="left" alt="Balsikandar's github stats" src="https://github-readme-stats.vercel.app/api?username=balsikandar&show-icons=true&hide_border=true" />
 
 <img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balsikandar" />
