@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Flutter and Jetpack Compose.
 - 👯 I'm looking to collaborate on Android/React Native.
-- 💬 Talk to me about Android, kotlin, React, Web, and books.
+- 💬 Talk to me about Android, kotlin, React Native, Web, and books.
 - 📫 Connect me: balsikandar.nsit@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=balsikandar)
